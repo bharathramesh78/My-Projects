@@ -9,7 +9,7 @@ for count, i in enumerate(l1):
 
 ##Assignment 2 - Anagram
 #
-#
+##
 str1 = "save"
 str2 = "vase"
 
