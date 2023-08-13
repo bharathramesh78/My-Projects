@@ -1,4 +1,4 @@
-Q1) - Palindrome using OOPS
+#Q1) - Palindrome using OOPS
 
 #import
 
@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     print(result)
 
-Q2) - calculator using OOPS
+#Q2) - calculator using OOPS
 
 #import#
 
